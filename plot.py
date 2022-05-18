@@ -1,5 +1,5 @@
 #Alexia Pittas
-#Supporting work for question 1 part a
+#Supporting work for question 1 part a and b
 
 import pandas as pd
 import matplotlib.pyplot as plt
